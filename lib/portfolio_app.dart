@@ -13,7 +13,7 @@ class PortfolioApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: CustomTheme.darkTheme(),
-      title: 'Rady Haggag',
+      title: 'Moon seunghun',
       home: BlocProvider<HomeBloc>(
         create: (context) => HomeBloc(),
         child: const HomeView(),

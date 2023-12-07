@@ -26,7 +26,7 @@ abstract class AppConstants {
   ];
   static const List<Project> projects = [
     Project(
-      name: 'Live score',
+      name: 'Moon seunghun - portfolio',
       imageUrl:
           'https://drive.google.com/uc?id=1ITN6reINiIaM-6j3QqxrwtvADZgLNvwB',
       description:
@@ -35,11 +35,11 @@ abstract class AppConstants {
       previewLink: 'https://youtu.be/HSIosFd6Sys',
     ),
     Project(
-      name: 'Instagram clone',
+      name: 'Ourtimes',
       imageUrl:
           'https://drive.google.com/uc?id=1qNFCNYdUo7o36ythQtjaSrv7L0NV_Vnv',
       description:
-          'Social media application for share posts and stories with people, One-to-one chat, Share reels videos',
+          'Social times Saas 기반 솔루션, 우리의 시간을 효율적으로 ',
       githubRepoLink:
           'https://github.com/radyhaggag/Instagram-Clone-With-Clean-Architecture',
       previewLink: 'https://youtu.be/MuuVjqrR49g',
@@ -81,24 +81,6 @@ abstract class AppConstants {
       googlePlay:
           'https://play.google.com/store/apps/details?id=com.SJY.salataljanaza',
       previewLink: 'https://youtu.be/wK9Y9BhP190',
-    ),
-    Project(
-      name: 'Ghaslah',
-      imageUrl:
-          'https://drive.google.com/uc?id=1ed4H2-cH6yk_kVkDdxOLcUkgP1xpuo72',
-      description:
-          'An application for add wash cars reservation with location in map and the picker will come to wash the cars',
-      previewLink: 'https://youtu.be/gkeRSAfCZaI',
-    ),
-    Project(
-      name: 'Zawilan',
-      imageUrl:
-          'https://drive.google.com/uc?id=1ElTwguynMLqhS295-IE7bTTabsZGZp8s',
-      description:
-          'Zwailan is an education app based on units and sections system, you start by sign up on app and wait until the teacher accept your join request.',
-      previewLink: 'https://youtu.be/g92W-SmfkKc',
-      googlePlay:
-          'https://play.google.com/store/apps/details?id=com.radyhaggag.zawilan',
     ),
   ];
 }
