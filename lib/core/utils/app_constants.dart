@@ -42,7 +42,7 @@ abstract class AppConstants {
           'Social times Saas 기반 솔루션, 우리의 시간을 효율적으로 ',
       githubRepoLink:
           'https://github.com/radyhaggag/Instagram-Clone-With-Clean-Architecture',
-      previewLink: 'https://youtu.be/MuuVjqrR49g',
+      // previewLink: 'https://youtu.be/MuuVjqrR49g',
     ),
     Project(
       name: 'TikTok Downloader',
