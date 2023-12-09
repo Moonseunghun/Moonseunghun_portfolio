@@ -30,9 +30,9 @@ abstract class AppConstants {
       imageUrl:
           'https://drive.google.com/uc?id=1ITN6reINiIaM-6j3QqxrwtvADZgLNvwB',
       description:
-          'A football application to display all related matches and rankings in all international and local tournaments',
-      githubRepoLink: 'https://github.com/radyhaggag/live_score',
-      previewLink: 'https://youtu.be/HSIosFd6Sys',
+          'Junior developer Moon Seunghoons portfolio',
+      githubRepoLink: 'https://github.com/Moonseunghun/Moonseunghun_portfolio',
+      previewLink: 'https://velog.io/@dun08044',
     ),
     Project(
       name: 'Ourtimes',
@@ -41,36 +41,8 @@ abstract class AppConstants {
       description:
           'Social times Saas 기반 솔루션, 우리의 시간을 효율적으로 ',
       githubRepoLink:
-          'https://github.com/radyhaggag/Instagram-Clone-With-Clean-Architecture',
+          'https://github.com/ourtimess/ourtimes',
       // previewLink: 'https://youtu.be/MuuVjqrR49g',
-    ),
-    Project(
-      name: 'TikTok Downloader',
-      imageUrl:
-          'https://drive.google.com/uc?id=1SypuIPVdokg0O4DYoYdswRowlIJAGgIq',
-      description:
-          'An application for download videos from tiktok and save it to gallery.',
-      githubRepoLink: 'https://github.com/radyhaggag/tiktok_downloader',
-      previewLink: 'https://youtu.be/mWeA625pcrI',
-    ),
-    Project(
-      name: 'Bookly',
-      imageUrl:
-          'https://drive.google.com/uc?id=1yQtoq-wjVejWPXRI7gzGMXPUZrRob8kY',
-      description: 'An application to explore books and view their details.',
-      githubRepoLink:
-          'https://github.com/radyhaggag/bookly_app_with_mvvm_and_bloc',
-      previewLink: 'https://youtu.be/3nU_dYjsPsg',
-    ),
-    Project(
-      name: 'Image processing',
-      imageUrl:
-          'https://drive.google.com/uc?id=1hd7U3HgoDqXEi9eDKYjrY9iqlWa6qt8E',
-      description:
-          'An Desktop program for process images and apply some filters to them.',
-      githubRepoLink:
-          'https://github.com/radyhaggag/image_processing_program_with_python_flet',
-      previewLink: 'https://youtu.be/s1KFdBKNFig',
     ),
     Project(
       name: 'Salat al janazah',
