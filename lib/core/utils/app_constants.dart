@@ -45,14 +45,14 @@ abstract class AppConstants {
       // previewLink: 'https://youtu.be/MuuVjqrR49g',
     ),
     Project(
-      name: 'Salat al janazah',
+      name: 'device_pub_ui',
       imageUrl:
           'https://drive.google.com/uc?id=1UpCGckOS46GdTuHU4wuj7Abo_97gxe_E',
       description:
-          'An application for add janazah prayer and view the prayers for nearby people',
-      googlePlay:
-          'https://play.google.com/store/apps/details?id=com.SJY.salataljanaza',
-      previewLink: 'https://youtu.be/wK9Y9BhP190',
+          '디바이스 화면 변환(pc.mobile)등 화면의 px를 비교하여 화면에 맞게 바꿔주는 패키지입니다( ~ing )',
+      previewLink: 'https://pub.dev/packages/device_pub_ui',
+      githubRepoLink:
+      'https://github.com/Moonseunghun/Device_pub_ui',
     ),
   ];
 }
